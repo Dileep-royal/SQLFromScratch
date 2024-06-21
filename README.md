@@ -7,7 +7,8 @@ This repository is to doucment my DBMS & SQL learning journey and to Practice SQ
 - [SQL Queries](./SQLQueries/)
 
 # 30DaysOfSQL
-![](./assets/banner.png)
+<!--
+![](./assets/banner.png) -->
 
 ## Day-01
 - [DBMS](./DBMS/readme/1-Intro-to-DBMS/)
